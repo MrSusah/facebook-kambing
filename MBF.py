@@ -168,7 +168,7 @@ def idgroup():
 			tampil('\rm[!]Hanya Bisa Mengambil \rh %d id'%len(id_bgroup))
 			break
 	simpan()
-	i = inputD('[?]Langsung Crack (y/t)',['Y','T'])
+	i = inputD('[?]Langsung Crack (y/t)',['Y','T'])https://github.com/MrSusah/facebook-kambing
 	if i.upper() == 'Y':
 		return crack(id_bgroup)
 	else:
@@ -338,9 +338,9 @@ def menu():
                  \_  \_ \_    \rk*\rhDragonFly ZomBie
 \rk###########################################################
 #             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
-# \rhBY\rp                                             PIRMANSX \rk#
+# \rhBY\rp                                             SYARIF.R \rk#
 # \rhGroup FB\rp  https://m.facebook.com/groups/164201767529837 \rk#
-# \rhGitHub\rp                      https://github.com/pirmansx \rk#
+# \rhGitHub\rp       https://github.com/MrSusah/facebook-kambing\rk#
 #       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
