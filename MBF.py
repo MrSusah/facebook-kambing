@@ -168,7 +168,7 @@ def idgroup():
 			tampil('\rm[!]Hanya Bisa Mengambil \rh %d id'%len(id_bgroup))
 			break
 	simpan()
-	i = inputD('[?]Langsung Crack (y/t)',['Y','T'])https://github.com/MrSusah/facebook-kambing
+	i = inputD('[?]Langsung Crack (y/t)',['Y','T'])
 	if i.upper() == 'Y':
 		return crack(id_bgroup)
 	else:
